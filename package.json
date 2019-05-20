@@ -5,13 +5,14 @@
     "license": "ISC",
     "description": "Simple http server for developers of apps with client side routing",
     "main": "angular-http-server.js",
-    "repository": "https://github.com/simonh1000/angular-http-server.git",
+    "repository": "https://github.com/shermam/spa-server-gzip.git",
     "keywords": [
         "angular",
         "spa",
         "http-server",
         "server",
-        "routing"
+        "routing",
+        "gzip"
     ],
     "scripts": {
         "test": "mocha"

@@ -1,6 +1,6 @@
 {
     "name": "spa-server-gzip",
-    "version": "1.9.0",
+    "version": "1.9.1",
     "author": "shermam",
     "license": "ISC",
     "description": "Simple http server for developers of apps with client side routing",

@@ -53,6 +53,12 @@ spa-server-gzip --https --key ./secret/key.pem --cert ./secret/cert.pem
 spa-server-gzip --cors
 ```
 
+Add cache headers
+
+```sh
+spa-server-gzip --cache
+```
+
 Specify a path to serve from
 
 ```sh
